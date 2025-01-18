@@ -1,0 +1,67 @@
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+    background: #f9f9f9;
+  }
+  
+  h1 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .shoutout-section {
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    color: white;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .top-donor-card {
+    margin-top: 10px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    color: #333;
+  }
+  
+  h2 {
+    color: #555;
+  }
+  
+  ul.donor-list {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  ul.donor-list li {
+    background: #f0f0f0;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 400px;
+    text-align: left;
+    color: #333;
+  }
+  
+  .logout-button {
+    background: #ff7e5f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .logout-button:hover {
+    background: #e0694f;
+  }
+  
